@@ -1,0 +1,11 @@
+# Every file, unless a later rule overrides it
+*               @Jor-ElL
+
+# Front-end markup and styles
+*.html          @Jor-ElL
+css/            @Jor-ElL
+js/             @Jor-ElL
+
+# Anything that changes how the project is run
+.github/        @Jor-ElL
+tests/          @Jor-ElL
